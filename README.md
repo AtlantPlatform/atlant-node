@@ -1,4 +1,4 @@
-## Atlant Node
+## Atlant Node ![](https://img.shields.io/badge/version-1.0.1--rc1-blue.svg)
 
 <p align="center">
 <img src="https://avatars3.githubusercontent.com/u/30299272?s=400&u=b11d6a41091e04d7e133a758e6efb917371b981d&v=4" width="175">
