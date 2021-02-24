@@ -1,4 +1,4 @@
-Copyright 2017-2019 Tensigma Ltd.
+Copyright 2017-2021 Digital Asset Exchange Limited. All rights reserved.
 
 Licensed under the Microsoft Reference Source License (MS-RSL)
 
